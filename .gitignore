@@ -1,0 +1,25 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
+
+
+# jinyPHP 모듈 밒 폴더 제외
+/jiny
+/resources/views/theme
+/resources/views/pages
+/resources/actions
+/resources/menu
+
+
